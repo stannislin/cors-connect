@@ -1,7 +1,7 @@
 {
   "name": "cors-connect",
   "version": "0.0.1",
-  "description": "\"Response the CORS requests to the AJAX clients (i.e., a front-end web app which runs in a browser)\"",
+  "description": "Accept the CORS requests from AJAX clients (i.e., a front-end web app which runs in a browser)",
   "main": "index.js",
   "dependencies": {},
   "devDependencies": {},
